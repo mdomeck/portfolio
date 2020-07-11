@@ -348,7 +348,7 @@
 		}
 
 			#main > section.dark {
-				color: #ddd;
+				color:#ddd;
 				color: rgba(255, 255, 255, 0.75);
 			}
 
@@ -378,7 +378,8 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/German_Village-2005-07-02-IMG_4527.jpg");
+				opacity: 0.7;
 			}
 
 			#main > section.two {
